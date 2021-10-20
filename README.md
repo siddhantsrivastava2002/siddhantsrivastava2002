@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @siddhantsrivastava2002
-- 👀 I’m interested in App development and augmented reality
-- 🌱 I’m currently learning flutter 
+- 👋 Hi, I’m Siddhant Srivastava
+- 👀 I’m interested in Flutter , augmented reality and blockchain.
+- 🌱 I’m currently learning solidity .
 - 📫 Reach me on siddhantshrivastava030@gmail.com 
 
 <!---
