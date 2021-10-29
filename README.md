@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Siddhant Srivastava
 - 👀 I’m interested in Flutter,Augmented reality and Blockchain.
-- 🌱 I’m currently learning solidity .
+- 🌱 I’m currently learning LIGO .
 - 📫 Reach me on siddhantshrivastava030@gmail.com 
 
 <!---
