@@ -20,7 +20,7 @@ You can click the Preview link to take a look at your changes.
 <br/>
 - <b>🔗 Connect with me :</b>
 <br/>
-<a href="https://www.linkedin.com/in/siddhant-srivastava-2a5257202/"> <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" width="50px"/> </a>&nbsp;&nbsp;&nbsp;&nbsp </a>&nbsp;&nbsp;<a href="https://twitter.com/vastavsid"> <img src="https://img.icons8.com/fluency/48/000000/twitter.png" width="50px"/> </a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/siddhant-srivastava-2a5257202/"> <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" width="50px"/> </a>&nbsp;&nbsp;&nbsp;&nbsp </a>&nbsp;&nbsp;<a href="https://twitter.com/sidtexh"> <img src="https://img.icons8.com/fluency/48/000000/twitter.png" width="50px"/> </a>&nbsp;&nbsp;
 
 
 ### 💘 Github Stats:-
